@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#much of this code is borrowed from (looking for credit) 
+#backdated to work with Python 2.7
 
 import time
 import datetime
